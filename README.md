@@ -24,7 +24,6 @@ Tech Stack = {
 
 Distributed Systems • Backend Architecture • Kubernetes • Observability • Agentic AI
 
-### Connect
+### Lets Connect
 
 [LinkedIn](https://linkedin.com/in/deepakmn03) •
-[GitHub](https://github.com/deepakmn03)
