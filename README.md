@@ -1,29 +1,33 @@
-<h2>Hey, I'm Deepak 👋</h2>
+# Hey, I'm Deepak 👋
 
-Backend Engineer with 2.5+ years of experience building scalable backend systems and cloud-native infrastructure.
+Backend Engineer with 2.5+ years of experience building scalable cloud-native and distributed systems. IIT Kanpur graduate focused on backend engineering, observability, Kubernetes, and AI-assisted tooling.
 
-Currently working on distributed systems, observability platforms, and AI-assisted developer tooling.
-
-```java
-Tech Stack = {
-  backend: [Java, Spring Boot, FastAPI],
-  cloud: [Kubernetes, Docker, Helm],
-  databases: [PostgreSQL, Redis, OpenSearch],
-  tools: [Prometheus, GitHub Actions, Linux]
-};
+```bash
+$ current_focus
+Backend Development • Distributed Systems • AI Integration • Agentic AI
 ```
 
-### A few things I've worked on
+### About Me
 
-- Built a log ingestion pipeline handling 30GB+ logs/day across 100+ microservices
-- Reduced infrastructure costs by 40% using KEDA autoscaling
-- Improved login API performance by 60% using Redis caching
-- Built internal observability and AI-assisted tooling using Prometheus + OpenSearch
+- Building scalable backend systems using Java & Spring Boot
+- Working with Kubernetes-based infrastructure and cloud-native platforms
+- Interested in building high impact backend systems
+- Exploring Agentic AI, MCP servers, and autonomous engineering workflows
 
-### Interests
+### Tech Stack
 
-Distributed Systems • Backend Architecture • Kubernetes • Observability • Agentic AI
+#### Backend
+`Java` `Spring Boot` `REST APIs` `Microservices` `FastAPI`
+
+#### Cloud & Infrastructure
+`Kubernetes` `Docker` `Helm` `CI/CD` `GitHub Actions`
+
+#### Databases & Observability
+`PostgreSQL` `Redis` `OpenSearch` `Prometheus`
+
+#### Languages & Tools
+`Python` `Linux` `Bash` `Git/GitHub`
 
 ### Lets Connect
 
-[LinkedIn](https://linkedin.com/in/deepakmn03) •
+[LinkedIn](https://linkedin.com/in/deepakmn03)
