@@ -1,30 +1,30 @@
-# Deepak Meena
+<h2>Hey, I'm Deepak 👋</h2>
 
-Backend Engineer building scalable distributed systems, cloud-native applications, and observable backend platforms.
+Backend Engineer with 2.5+ years of experience building scalable backend systems and cloud-native infrastructure.
 
-- 2.5+ years in backend engineering
-- Java • Spring Boot • Kubernetes • Distributed Systems
-- Built log ingestion systems processing 30GB+ logs/day across 100+ microservices
-- Reduced infrastructure cost by 40% using KEDA autoscaling
+Currently working on distributed systems, observability platforms, and AI-assisted developer tooling.
+
+```java
+Tech Stack = {
+  backend: [Java, Spring Boot, FastAPI],
+  cloud: [Kubernetes, Docker, Helm],
+  databases: [PostgreSQL, Redis, OpenSearch],
+  tools: [Prometheus, GitHub Actions, Linux]
+};
+```
+
+### A few things I've worked on
+
+- Built a log ingestion pipeline handling 30GB+ logs/day across 100+ microservices
+- Reduced infrastructure costs by 40% using KEDA autoscaling
 - Improved login API performance by 60% using Redis caching
-- Exploring Agentic AI, MCP Servers, and AI-assisted developer tooling
+- Built internal observability and AI-assisted tooling using Prometheus + OpenSearch
 
-## Tech Stack
+### Interests
 
-**Backend**  
-Java • Spring Boot • Spring Security • FastAPI • REST APIs • Microservices
+Distributed Systems • Backend Architecture • Kubernetes • Observability • Agentic AI
 
-**Databases & Infra**  
-PostgreSQL • Redis • OpenSearch • Kubernetes • Docker • Helm
-
-**Observability & DevOps**  
-Prometheus • GitHub Actions • CI/CD • Linux
-
-**Languages & Tools**  
-Python • Bash • Git/GitHub
-
-## Connect
+### Connect
 
 [LinkedIn](https://linkedin.com/in/deepakmn03) •
-[GitHub](https://github.com/deepakmn03) •
-[randomdeepak21@gmail.com](mailto:randomdeepak21@gmail.com)
+[GitHub](https://github.com/deepakmn03)
