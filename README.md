@@ -5,7 +5,7 @@ Backend Engineer focused on building scalable backend systems, cloud-native plat
 </p>
 
 <p align="center">
-IIT Kanpur graduate • Java • Spring Boot • Kubernetes • Agentic AI
+IIT Kanpur graduate • Java • Spring Boot • FastAPI • Kubernetes • Agentic AI
 </p>
 
 ---
