@@ -52,7 +52,7 @@ Backend Development • Distributed Systems • AI Integration • Agentic AI
 
 <td valign="top" width="33%">
 
-#### Tools
+#### Language & Tools
 `Python`  
 `CPP`  
 `Linux`  
